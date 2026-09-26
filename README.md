@@ -33,8 +33,19 @@ I'm also comfortable in **Linux** and **PowerShell**, with solid **networking** 
 
 <table align="center">
 <tr>
-<td><img src="https://github.com/Gabriel-Misael/Gabriel-Misael/raw/main/profile/stats.svg" alt="GitHub Stats" height="165"/></td>
-<td><img src="https://github.com/Gabriel-Misael/Gabriel-Misael/raw/main/profile/top-langs.svg" alt="Top Langs" height="165"/></td>
+<td>
+<img src="https://github.com/Gabriel-Misael/Gabriel-Misael/raw/main/profile/stats.svg"
+     alt="GitHub Stats"
+     width="400"
+     height="165"/>
+</td>
+
+<td>
+<img src="https://github.com/Gabriel-Misael/Gabriel-Misael/raw/main/profile/top-langs.svg"
+     alt="Top Languages"
+     width="400"
+     height="165"/>
+</td>
 </tr>
 </table>
 
