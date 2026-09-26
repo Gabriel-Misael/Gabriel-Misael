@@ -14,7 +14,7 @@ I'm 20, based in São Paulo, Brazil, studying **Systems Development** at ETEC Ce
 
 I'm also comfortable in **Linux** and **PowerShell**, with solid **networking** fundamentals.
 
-📩 **Open for freelance work** — go239139@gmail.com
+📩 **Open for freelance work** — [your email / LinkedIn / WhatsApp link here]
 
 ## Security (Main Focus)
 
@@ -25,10 +25,9 @@ I'm also comfortable in **Linux** and **PowerShell**, with solid **networking** 
 
 ## Tech Stack
 
-**Languages:** C · C++ · Java · Python · JavaScript
-**Front-end:** HTML5 · CSS3 · React
-**Back-end & Runtime:** Node.js · npm · MySQL / SQL
-**Tools:** Linux · Git · GitHub · PowerShell
+<div align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,nodejs,npm,mysql,linux,git,github,powershell&theme=light&perline=8" alt="Tech Stack"/>
+</div>
 
 ## GitHub Stats
 
