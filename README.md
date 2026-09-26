@@ -26,7 +26,7 @@ I'm also comfortable in **Linux** and **PowerShell**, with solid **networking** 
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,nodejs,npm,mysql,linux,git,github,powershell&theme=light&perline=8" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,react,nodejs,npm,mysql,linux,git,github,powershell&theme=light&perline=8" alt="Tech Stack"/>
 </div>
 
 ## GitHub Stats
