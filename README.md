@@ -14,7 +14,7 @@ Tenho 20 anos, sou de São Paulo e curso **Desenvolvimento de Sistemas** na ETEC
 
 Estou **tryhard** nos estudos e em busca de projetos freelancer para colocar a mão na massa. Se você precisa de um dev que entende tanto de lógica quanto de segurança, me chama!
 
-📩 **Disponível para freelas** — [seu contato/LinkedIn aqui]
+📩 **Disponível para freelas** — go239139@gmail.com/ 19 98885-4734
 
 ---
 
