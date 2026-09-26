@@ -14,7 +14,8 @@ I'm 20 years old, based in São Paulo, Brazil, and currently studying **Systems 
 
 I don't treat security as an afterthought — it's part of how I build from the first line of code. I'm also comfortable in **Linux** and **PowerShell** environments and have solid **networking** fundamentals.
 
-📩 **Open for freelance work** — go239139@gmail.com
+📩 **Open for freelance work** — [your email / LinkedIn / WhatsApp link here]
+
 ---
 
 ### 🔐 Security (main focus)
@@ -70,13 +71,13 @@ I don't treat security as an afterthought — it's part of how I build from the 
 ### 📊 GitHub Stats
 
 <p>
-  <img align="left" alt="GitHub Stats" height="180" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Misael&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img align="left" alt="Top Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Misael&theme=dracula&layout=compact&langs_count=10"/>
+  <img align="left" alt="GitHub Stats" height="180" style="padding-right:10px;" src="./profile/stats.svg"/>
+  <img align="left" alt="Top Langs" height="180" src="./profile/top-langs.svg"/>
 </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-> ⚠️ If the cards above don't load: this is a known instability of the public `github-readme-stats` server (it's rate-limited and no longer officially maintained), not an issue with your profile. Refreshing the page usually fixes it. If it stays broken, the reliable fix is generating static stats via a GitHub Actions workflow — ask and I'll set that up.
+> These cards are generated automatically once a day by a GitHub Actions workflow (`.github/workflows/grs.yml`), as static SVG files stored in this repo. No dependency on the flaky public API — they always load.
 
 ---
 
