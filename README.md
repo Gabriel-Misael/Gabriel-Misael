@@ -14,7 +14,7 @@ I'm 20, based in São Paulo, Brazil, studying **Systems Development** at ETEC Ce
 
 I'm also comfortable in **Linux** and **PowerShell**, with solid **networking** fundamentals.
 
-📩 **Open for freelance work** — [your email / LinkedIn / WhatsApp link here]
+📩 **Open for freelance work** — go239139@gmail.com
 
 ## Security (Main Focus)
 
