@@ -33,7 +33,7 @@ I'm also comfortable in **Linux** and **PowerShell**, with solid **networking** 
 
 <div align="center">
 <img src="https://github.com/Gabriel-Misael/Gabriel-Misael/raw/main/profile/stats.svg" alt="GitHub Stats" height="165" style="vertical-align:top;"/>
-<img src="https://github.com/Gabriel-Misael/Gabriel-Misael/raw/main/profile/top-langs.svg" alt="Top Langs" height="165" style="vertical-align:top;"/>
+<img src="https://github.com/Gabriel-Misael/Gabriel-Misael/raw/main/profile/top-langs.svg" alt="Top Langs" height="200" style="vertical-align:top;"/>
 </div>
 
 <sub>Generated automatically once a day by GitHub Actions (`.github/workflows/grs.yml`) — static SVGs, no dependency on the flaky public API.</sub>
