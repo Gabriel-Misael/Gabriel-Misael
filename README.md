@@ -36,7 +36,7 @@ I'm also comfortable in **Linux** and **PowerShell**, with solid **networking** 
     src="https://github.com/Gabriel-Misael/Gabriel-Misael/raw/main/profile/stats.svg"
     alt="GitHub Stats"
     width="400"
-    height="165"
+    height="100"
   />
   <img 
     src="https://github.com/Gabriel-Misael/Gabriel-Misael/raw/main/profile/top-langs.svg"
